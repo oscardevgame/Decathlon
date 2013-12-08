@@ -1,0 +1,2574 @@
+2013-09-28 02:12:14 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 37]
+Trace:
+include - APP\View\Game\play.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 02:12:14 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 38]
+Trace:
+include - APP\View\Game\play.ctp, line 38
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 02:12:14 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 38]
+Trace:
+include - APP\View\Game\play.ctp, line 38
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 02:31:36 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 37]
+Trace:
+include - APP\View\Game\play.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 02:31:36 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 38]
+Trace:
+include - APP\View\Game\play.ctp, line 38
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 02:31:36 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 38]
+Trace:
+include - APP\View\Game\play.ctp, line 38
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 02:53:25 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 37]
+Trace:
+include - APP\View\Game\play.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 02:53:25 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 38]
+Trace:
+include - APP\View\Game\play.ctp, line 38
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 02:53:25 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 38]
+Trace:
+include - APP\View\Game\play.ctp, line 38
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 02:59:20 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 37]
+Trace:
+include - APP\View\Game\play.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 02:59:20 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 41]
+Trace:
+include - APP\View\Game\play.ctp, line 41
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 02:59:20 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 42]
+Trace:
+include - APP\View\Game\play.ctp, line 42
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 02:59:20 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 42]
+Trace:
+include - APP\View\Game\play.ctp, line 42
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:01:23 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 37]
+Trace:
+include - APP\View\Game\play.ctp, line 37
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:01:23 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 41]
+Trace:
+include - APP\View\Game\play.ctp, line 41
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:01:23 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 42]
+Trace:
+include - APP\View\Game\play.ctp, line 42
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:01:23 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 42]
+Trace:
+include - APP\View\Game\play.ctp, line 42
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:01:23 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 43]
+Trace:
+include - APP\View\Game\play.ctp, line 43
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:01:23 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 43]
+Trace:
+include - APP\View\Game\play.ctp, line 43
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:03:03 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 43]
+Trace:
+include - APP\View\Game\play.ctp, line 43
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:03:03 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 44]
+Trace:
+include - APP\View\Game\play.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:03:03 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 44]
+Trace:
+include - APP\View\Game\play.ctp, line 44
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:03:03 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 45]
+Trace:
+include - APP\View\Game\play.ctp, line 45
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:03:03 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 45]
+Trace:
+include - APP\View\Game\play.ctp, line 45
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:04:46 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:04:46 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:04:46 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:04:46 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:04:46 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:04:58 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:04:58 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:04:58 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:04:58 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:04:58 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:06:56 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:06:56 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:06:56 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:06:56 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:06:56 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:07:29 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:07:29 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:07:29 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:07:29 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:07:29 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:07:43 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:07:43 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:07:43 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:07:43 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:07:43 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:08:04 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:08:04 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:08:04 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:08:04 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 50]
+Trace:
+include - APP\View\Game\play.ctp, line 50
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:08:04 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 50]
+Trace:
+include - APP\View\Game\play.ctp, line 50
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:11:19 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:11:19 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:11:19 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:11:19 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:11:19 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:14:00 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:14:00 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:14:00 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:14:00 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:14:00 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:14:29 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:14:29 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:14:29 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:14:29 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:14:29 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:15:04 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:15:04 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 50]
+Trace:
+include - APP\View\Game\play.ctp, line 50
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:15:04 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 50]
+Trace:
+include - APP\View\Game\play.ctp, line 50
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:15:04 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 51]
+Trace:
+include - APP\View\Game\play.ctp, line 51
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:15:04 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 51]
+Trace:
+include - APP\View\Game\play.ctp, line 51
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:16:17 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:16:17 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 50]
+Trace:
+include - APP\View\Game\play.ctp, line 50
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:16:17 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 50]
+Trace:
+include - APP\View\Game\play.ctp, line 50
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:16:17 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 51]
+Trace:
+include - APP\View\Game\play.ctp, line 51
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:16:17 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 51]
+Trace:
+include - APP\View\Game\play.ctp, line 51
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:17:01 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:17:01 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 50]
+Trace:
+include - APP\View\Game\play.ctp, line 50
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:17:01 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 50]
+Trace:
+include - APP\View\Game\play.ctp, line 50
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:17:01 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 51]
+Trace:
+include - APP\View\Game\play.ctp, line 51
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:17:01 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 51]
+Trace:
+include - APP\View\Game\play.ctp, line 51
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:18:08 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:18:08 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:18:08 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:18:08 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:18:08 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:18:29 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:18:29 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:18:29 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:18:29 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:18:29 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:19:23 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:19:24 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:19:24 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:19:24 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:19:24 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:19:43 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:19:43 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:19:43 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:19:43 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:19:43 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:19:51 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:19:51 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:19:51 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:19:51 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:19:51 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:21:15 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:21:15 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:21:15 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:21:15 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:21:15 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:54:12 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:54:12 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:54:12 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:54:12 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:54:12 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:55:21 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:55:21 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:55:21 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:55:21 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:55:21 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:57:12 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:57:12 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:57:12 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:57:12 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:57:12 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:57:53 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:57:53 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:57:53 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:57:53 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:57:53 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:58:20 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:58:20 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:58:20 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:58:20 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 03:58:20 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 04:00:24 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 04:00:24 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 04:00:24 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 04:00:24 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 04:00:24 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 04:07:31 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 04:07:31 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 04:07:31 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 04:07:31 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 04:07:31 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 04:13:54 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 04:13:54 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 04:13:54 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 04:13:54 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 04:13:54 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 04:14:13 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 04:14:13 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 04:14:13 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 04:14:13 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 04:14:14 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 11:16:20 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 11:16:20 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 11:16:20 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 11:16:20 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 11:16:20 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 11:19:32 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 11:19:32 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 11:19:32 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 11:19:32 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 11:19:32 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 11:27:34 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 11:27:34 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 11:27:34 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 11:27:34 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 11:27:34 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 11:29:44 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 11:29:44 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 11:29:44 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 11:29:44 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 11:29:44 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 18:30:48 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 18:30:48 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 18:30:48 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 18:30:48 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 18:30:48 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 18:38:40 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 18:38:40 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 18:38:40 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 18:38:40 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-09-28 18:38:40 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 10:36:01 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 10:36:01 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 10:36:01 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 10:36:01 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 10:36:01 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 10:36:47 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 10:36:47 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 10:36:47 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 10:36:47 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 10:36:47 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:25:31 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:25:31 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:25:31 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:25:31 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:25:31 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:27:52 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:27:52 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:27:52 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:27:52 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:27:52 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:27:56 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:27:56 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:27:56 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:27:56 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:27:56 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:28:21 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:28:21 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:28:21 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:28:21 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:28:21 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:28:39 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:28:39 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:28:39 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:28:39 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:28:39 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:28:42 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:28:42 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:28:42 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:28:42 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:28:42 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:48:59 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 47]
+Trace:
+include - APP\View\Game\play.ctp, line 47
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:48:59 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:48:59 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 48]
+Trace:
+include - APP\View\Game\play.ctp, line 48
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:48:59 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
+2013-11-09 18:48:59 Debug: Notice (8): Undefined variable: usuario in [C:\xampp\htdocs\decathlon\app\View\Game\play.ctp, line 49]
+Trace:
+include - APP\View\Game\play.ctp, line 49
+View::_evaluate() - CORE\Cake\View\View.php, line 945
+View::_render() - CORE\Cake\View\View.php, line 907
+View::render() - CORE\Cake\View\View.php, line 471
+Controller::render() - CORE\Cake\Controller\Controller.php, line 952
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 162
+[main] - APP\webroot\index.php, line 110
+
